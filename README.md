@@ -10,7 +10,7 @@ Yo soy Max, soy desarrollador y vivo en Chile 🚀
 
 ### SIGUEME EN REDES
 
-[www.facebook.com/](/facebook)
-[www.facebook.com/](/instagram)
-[www.facebook.com/](/linkedin)
-[www.facebook.com/](/youtube)
+[facebook](www.facebook.com/)
+[instagram](www.facebook.com/)
+[linkedin](www.facebook.com/)
+[youtube](www.facebook.com/)
